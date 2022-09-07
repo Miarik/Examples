@@ -1,0 +1,15 @@
+/Users/Monkey/Desktop/Practice/Exercise_12/bin/Debug/net6.0/Exercise_12
+/Users/Monkey/Desktop/Practice/Exercise_12/bin/Debug/net6.0/Exercise_12.deps.json
+/Users/Monkey/Desktop/Practice/Exercise_12/bin/Debug/net6.0/Exercise_12.runtimeconfig.json
+/Users/Monkey/Desktop/Practice/Exercise_12/bin/Debug/net6.0/Exercise_12.dll
+/Users/Monkey/Desktop/Practice/Exercise_12/bin/Debug/net6.0/Exercise_12.pdb
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/Exercise_12.csproj.AssemblyReference.cache
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/Exercise_12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/Exercise_12.AssemblyInfoInputs.cache
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/Exercise_12.AssemblyInfo.cs
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/Exercise_12.csproj.CoreCompileInputs.cache
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/Exercise_12.dll
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/refint/Exercise_12.dll
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/Exercise_12.pdb
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/Exercise_12.genruntimeconfig.cache
+/Users/Monkey/Desktop/Practice/Exercise_12/obj/Debug/net6.0/ref/Exercise_12.dll
